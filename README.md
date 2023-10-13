@@ -19,5 +19,7 @@ In this project, all the experiment reports will be uploaded and the topic and c
    3.1   Image Gradient  
    3.2   Canny Edge Detector  
    3.3   Harris Edge Detector  
+## 4. Camera Calibration    
+   4.1   Zhang Calibration Method (MATLAB toolkit)   
    
 This course is provided in the third-year  in the undergraduate AI program in Xi'an Jiaotong University. Thanks to tearchers in IAIR (Institute of Artificial Intelligence and Robotics).
