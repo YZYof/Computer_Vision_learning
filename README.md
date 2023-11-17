@@ -23,6 +23,6 @@ In this project, all the experiment reports will be uploaded and the topic and c
    4.1   Zhang Calibration Method (using MATLAB toolkit)   
 ## 5. Image Classification      
    5.1   Image Classification on Caltech-256 dataset (using deep-learning methods)    
-   (using ConvNeXt to do)    
+   (using ConvNeXt)    
    
 This course is provided in the third-year  in the undergraduate AI program in Xi'an Jiaotong University. Thanks to tearchers in IAIR (Institute of Artificial Intelligence and Robotics).
